@@ -1,8 +1,8 @@
 all:
-	gcc -pthread atividade4.c -o atividade4
+	gcc -pthread atividade5.c -o atividade5
 	
 run:
-	./atividade4
+	./atividade5
 
 clean:
-	rm atividade4
+	rm atividade5
