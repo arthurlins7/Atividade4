@@ -3,7 +3,7 @@
 <p>
   <ul>
     <li>O código tem como finalidade fazer a soma de todos os elementos de uma matriz quadrada que será fornecida pelo usuário.<br />
-    <li>Para começar é solicitado ao usuário qual será a quantidade de linhas e de colunas, necessitando de apenas um número já que a matriz é quadrada.<br />
+    <li>Para começar é solicitado ao usuário a quantidade de linhas e de colunas, necessitando de apenas um número já que a matriz é quadrada.<br />
     <li>Após receber o tamanho da matriz threads foram utilizadas para receber os números que irão compor a matriz e montá-la.<br />
     <li>Com a montagem da matriz completa o programa somará todos os números dela e retornará ao usuário o resultado final.<br />
    </ul></p>
