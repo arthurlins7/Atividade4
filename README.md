@@ -1,5 +1,5 @@
 # Atividade5
-## Código e Make file
+*Código*
 <p>
   <ul>
     <li>O código tem como finalidade fazer a soma de todos os elementos de uma matriz quadrada que será fornecida pelo usuário.<br />
@@ -7,7 +7,9 @@
     <li>Após receber o tamanho da matriz threads foram utilizadas para receber os números que irão compor a matriz e montá-la.<br />
     <li>Com a montagem da matriz completa o programa somará todos os números dela e retornará ao usuário o resultado final.<br />
    </ul></p>
-### Makefile
+   
+*Makefile*
+
 <p>
   <ul>
    <li>O Makefile é composto pela função make, make run e make clean.<br />
