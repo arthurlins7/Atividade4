@@ -11,6 +11,17 @@
     <li>Com a montagem da matriz completa o programa somará todos os números dela e retornará ao usuário o resultado final.<br />
    </ul></p>
    
+'''c
+void* matriz_arm(void* p) {
+   int k = *((int*) p);
+   int i;
+   for (i = 0; i < tam; i++) {
+      s[k] += a[k][i];
+   }
+   return NULL;
+}
+'''
+   
 *Makefile*
 
 <p>
