@@ -26,8 +26,8 @@ void* matriz_arm(void* p) {
 
 <p>
   <ul>
-   <li>O Makefile é composto pelas funções make, make run e make clean.<br />
-   <li>A função make compila o arquivo tipo C e gera um arquivo binário, nesse caso tendo que ser adicionado o "-pthread" no make para que ele reconheça os comandos dessa biblioteca.<br />
-   <li>O make run usa o arquivo binário para executar o código.<br />
-   <li>E o make clean tem a função de apagar o arquivo binário que foi anteriormente gerado no make.<br />
+   <li>O Makefile é composto pelos comandos $make, $make run e $make clean.<br />
+   <li>O comando $make compila o arquivo tipo C e gera um arquivo binário, nesse caso tendo que ser adicionado o "-pthread" no make para que ele reconheça os comandos dessa biblioteca.<br />
+   <li>O $make run usa o arquivo binário para executar o código.<br />
+   <li>E o $make clean tem a função de apagar o arquivo binário que foi anteriormente gerado no $make.<br />
 </ul></p>
